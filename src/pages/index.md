@@ -3,14 +3,11 @@ templateKey: index-page
 title: För styrelse- och mötesprotokoll
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Enkla och tydliga protokoll, direkt i ett webbgrännssnitt!
 mainpitch:
-  title: Why Kaldi
+  title: Vad är Sekreterare.nu?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Sekreterare.nu är en molntjänst riktad främst till dig som sekreterare i en förening eller ett företag. Vår tjänst passar perfekt till allt ifrån fotbollsföreningen till bolagsstyrelsen.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,4 +65,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
