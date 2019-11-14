@@ -7,12 +7,13 @@ subheading: Enkla och tydliga protokoll, direkt i ett webbgrännssnitt!
 mainpitch:
   title: Vad är Sekreterare.nu?
   description: >
-    Sekreterare.nu är en molntjänst riktad främst till dig som sekreterare i en förening eller ett företag. Vår tjänst passar perfekt till allt ifrån fotbollsföreningen till bolagsstyrelsen.
+    Sekreterare.nu är en molntjänst riktad främst till dig som sekreterare i en förening eller ett företag. Vår tjänst passar perfekt till allt ifrån fotbollsföreningen till bolagsstyrelsen. Sekreterare.nu befinner sig just nu i en gratis beta-release.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
+
 intro:
   blurbs:
     - image: /img/coffee.png
