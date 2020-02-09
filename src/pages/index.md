@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: För styrelse- och mötesprotokoll
+title: Din digitala sekreterare
 image: /img/safari-pinned-tab.svg
 heading: Great coffee with a conscience
-subheading: 'Enkla och tydliga protokoll, direkt i ett webbgrännssnitt!'
+subheading: 'Enkla och tydliga protokoll, direkt i webbläsaren'
 mainpitch:
   title: Vad är Sekreterare.nu?
-  description: >
+  description: >-
     Sekreterare.nu är en molntjänst riktad främst till dig som sekreterare i en
     förening eller ett företag. Vår tjänst passar perfekt till allt ifrån
     fotbollsföreningen till bolagsstyrelsen. Sekreterare.nu befinner sig just nu
-    i en gratis beta-release.
+    i en gratis beta-version.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
