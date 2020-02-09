@@ -39,29 +39,31 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              "rgb(63, 81, 181) 0.5rem 0px 0px, rgb(63, 81, 181) -0.5rem 0px 0px",
-            backgroundColor: "rgb(63, 81, 181)",
-            color: "white",
+            color: "#363636",
             lineHeight: "1",
-            padding: "0.25em"
+            padding: "3px"
           }}
         >
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="has-text-weight is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              "rgb(63, 81, 181) 0.5rem 0px 0px, rgb(63, 81, 181) -0.5rem 0px 0px",
-            backgroundColor: "rgb(63, 81, 181)",
-            color: "white",
+            color: "#707070",
             lineHeight: "1",
-            padding: "0.25em"
+            padding: "3px"
           }}
         >
           {subheading}
         </h3>
+        <a
+          style={{ padding: "3px", marginTop: "15px" }}
+          href="https://beta.sekreterare.nu/signup"
+        >
+          <div className="btn" style={{ width: "200px" }}>
+            Skapa konto
+          </div>
+        </a>
       </div>
     </div>
     <section className="section section--gradient">
@@ -75,7 +77,7 @@ export const IndexPageTemplate = ({
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
+                    <p className="subtitle">{mainpitch.description}</p>
                   </div>
                 </div>
                 {/*
