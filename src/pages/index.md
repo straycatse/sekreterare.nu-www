@@ -3,7 +3,7 @@ templateKey: index-page
 title: Din digitala sekreterare
 image: /img/safari-pinned-tab.svg
 heading: Great coffee with a conscience
-subheading: 'Enkla och tydliga protokoll, direkt i webbläsaren'
+subheading: 'Enkla och tydliga protokoll, direkt i din webbläsare'
 mainpitch:
   title: Vad är Sekreterare.nu?
   description: >-
