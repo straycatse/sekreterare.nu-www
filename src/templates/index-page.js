@@ -27,6 +27,7 @@ export const IndexPageTemplate = ({
       }}
     >
       <div
+        className="site-title-box"
         style={{
           display: "flex",
           height: "150px",
